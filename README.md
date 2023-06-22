@@ -10,7 +10,7 @@ This is used to extract the features from the images and then make use of these 
 
 We have used the flickr8k dataset from the kaggle for the training purposes.
 
-We have also used the BLUE metric for the evaluation for the prompt generated.
+We have also used the BLEU metric for the evaluation for the prompt generated.
 BLEU, or the Bilingual Evaluation Understudy, is a score for comparing a candidate translation of text to one or more reference translations. 
 Although developed for translation, it can be used to evaluate text generated for a suite of natural language processing tasks.
 
