@@ -20,6 +20,7 @@ My model recognized me as a snowboarder ..lol :p
 
 
 updmodel -----> Codebase
+
 paramshere.txt ----> Link to g-Drive containing the weights and pickle file
 
 Dataset used ----> Flikr8k from Kaggle
