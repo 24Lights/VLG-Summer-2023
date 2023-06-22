@@ -17,3 +17,10 @@ Although developed for translation, it can be used to evaluate text generated fo
 Finally , i have used my own portrait to see how my model works 
 
 My model recognized me as a snowboarder ..lol :p
+
+
+updmodel -----> Codebase
+paramshere.txt ----> Link to g-Drive containing the weights and pickle file
+
+Dataset used ----> Flikr8k from Kaggle
+Link here:https://www.kaggle.com/datasets/adityajn105/flickr8k?select=Images
